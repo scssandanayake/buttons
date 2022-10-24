@@ -1,2 +1,2 @@
 # buttons
-this is my first reposatry 
+this is my first repository
